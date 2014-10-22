@@ -6,14 +6,21 @@ using System.Threading.Tasks;
 
 namespace CircleApp
 {
-    class Circle
+   
+ class Circle
     {
-        //public double radius;
+   
+     //public double radius;
+     //alkdsjflk	
+	
+
 
         private double radius;
 
-        public double Radius
-        {
+ 
+       public double Radius
+   
+     {
             set;
             get;
         }

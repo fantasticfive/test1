@@ -7,3 +7,6 @@ D:\VSProjects\CircleApp\CircleApp\obj\Debug\CircleApp.pdb
 C:\Users\PC21\Documents\visual studio 2013\Projects\Circle-App-master\CircleApp\bin\Debug\CircleApp.exe.config
 C:\Users\PC21\Documents\visual studio 2013\Projects\Circle-App-master\CircleApp\obj\Debug\CircleApp.exe
 C:\Users\PC21\Documents\visual studio 2013\Projects\Circle-App-master\CircleApp\obj\Debug\CircleApp.pdb
+C:\Users\Mhr\Desktop\gitup test\test4\Circle-App-master\CircleApp\bin\Debug\CircleApp.exe.config
+C:\Users\Mhr\Desktop\gitup test\test4\Circle-App-master\CircleApp\obj\Debug\CircleApp.exe
+C:\Users\Mhr\Desktop\gitup test\test4\Circle-App-master\CircleApp\obj\Debug\CircleApp.pdb
